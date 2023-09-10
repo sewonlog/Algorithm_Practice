@@ -1,5 +1,5 @@
 //홀짝에 따라 다른 값 반환하기
-public class solution5 {
+public class Solution5 {
     public int solution(int n) {
         int answer = 0;
         for(int i=1; i<=n; i++) {
